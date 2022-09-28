@@ -11,5 +11,7 @@ Activity 2
 
 ![](Images/Activity2.2.png)
 
+Activity 3
+![](Images/Activity3.png)
 
 
